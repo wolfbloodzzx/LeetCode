@@ -1,8 +1,6 @@
-import java.util.ArrayList;
+package leetcode;
+
 import java.util.Arrays;
-import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class code561 {
     public int arrayPairSum(int[] nums) {

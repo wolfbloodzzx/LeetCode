@@ -1,3 +1,5 @@
+package leetcode;
+
 public class code771 {
     public int numJewelsInStones(String J, String S) {
         int ans = 0;
