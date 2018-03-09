@@ -39,9 +39,32 @@ public class BiArray {
         }
         return flag;
     }
-    public boolean FindBest(int target, int [][] array) {
-        return false;
 
+    /**
+     * 从左下角或者右上角开始检索，这样的话不管当前状态大于还是小于target，都只有一种转移方向
+     * @param target
+     * @param array
+     * @return
+     */
+    public boolean FindBest(int target, int [][] array) {
+        int i_l = array.length;
+        int j_l = array[0].length;
+        boolean flag = false;
+        int i = i_l -1;
+        int j = 0;
+        while(true){
+            if(i<0 || j< 0||i >= i_l||j>=j_l)
+                break;
+            if(array[i][j] > target){
+                i = i-1;
+            }else if(array[i][j] < target){
+                j = j+1;
+            }else{
+                flag = true;
+                break;
+            }
+        }
+        return flag;
     }
     public static void main(String[] args){
         int[][] test = {{1,2,4,6,8,10,11,13,15,17,20,22,24,27,30,32,35,36,38,39,42,44,46,47,48,49,51,54,55,56},
@@ -51,5 +74,8 @@ public class BiArray {
         System.out.println(new BiArray().Find(5,test));
         System.out.println(new BiArray().Find(10,test));
         System.out.println(new BiArray().Find(-10,test));
+        System.out.println(new BiArray().FindBest(5,test));
+        System.out.println(new BiArray().FindBest(10,test));
+        System.out.println(new BiArray().FindBest(-10,test));
     }
 }
