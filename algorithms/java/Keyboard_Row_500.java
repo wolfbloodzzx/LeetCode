@@ -1,10 +1,9 @@
-package leetcode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class code500 {
+public class Keyboard_Row_500 {
     public String[] findWords(String[] words) {
         String[] rows = {"QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"};
         List<String> result = new ArrayList<>();
@@ -32,6 +31,6 @@ public class code500 {
     }
     public static void main(String[] args){
         String[] test = {"Hello", "Alaska", "Dad", "Peace"};
-        System.out.println(Arrays.toString(new code500().findWords(test)));
+        System.out.println(Arrays.toString(new Keyboard_Row_500().findWords(test)));
     }
 }

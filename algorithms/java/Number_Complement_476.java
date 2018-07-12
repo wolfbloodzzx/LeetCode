@@ -1,6 +1,5 @@
-package leetcode;
 
-public class code476 {
+public class Number_Complement_476 {
     public int findComplement(int num) {
 
         int bit = num, result =0;
@@ -13,6 +12,6 @@ public class code476 {
         return result;
     }
     public static void main(String[] args){
-        System.out.println(new code476().findComplement(5));
+        System.out.println(new Number_Complement_476().findComplement(5));
     }
 }

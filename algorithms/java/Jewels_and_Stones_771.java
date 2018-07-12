@@ -1,6 +1,5 @@
-package leetcode;
 
-public class code771 {
+public class Jewels_and_Stones_771 {
     public int numJewelsInStones(String J, String S) {
         int ans = 0;
         for(int i = 0 ; i< J.length();i++)
@@ -10,7 +9,7 @@ public class code771 {
         return ans;
     }
     public static void main(String args[]){
-        assert new code771().numJewelsInStones("aA", "aAAbbbb") == 3;
-        assert new code771().numJewelsInStones("z", "ZZ") == 0;
+        assert new Jewels_and_Stones_771().numJewelsInStones("aA", "aAAbbbb") == 3;
+        assert new Jewels_and_Stones_771().numJewelsInStones("z", "ZZ") == 0;
     }
 }
