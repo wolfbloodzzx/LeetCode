@@ -1,17 +1,18 @@
 public class Guess_Number_Higher_or_Lower_374 {
+    /**
+     * 二分查找
+     * @param n
+     * @return
+     */
     public int guessNumber(int n) {
-        int s = 0, e = n;
-        int t = n / 2;
-        while (guess(t) != 0) {
-            if (guess(t) == -1)
-                s = t;
-            else if (guess(t) == 1)
-                e = t;
-            t = (s+e)/2;
-            if(e == s)
-                break;
+        for (int start = 1, end = n;;) {
+            int mid = start + ((end - start) >> 1);
+            switch(guess(mid)) {
+                case -1: end = mid; break;
+                case  0: return mid;
+                case +1: start = mid + 1; break;
+            }
         }
-        return t;
     }
 
     public int guess(int num) {
