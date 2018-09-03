@@ -9,6 +9,17 @@ leetcode题目的解
 |&hearts;|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[JAVA](./algorithms/java/Two_Sum_1.java)|Easy|  |
 |&hearts;|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[JAVA](./algorithms/java/Three_Sum_15.java)| Medium|  |
 |&hearts;|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[JAVA](./algorithms/java/Rotate_Image_48.java)| Medium|  |
+|&hearts; &diams;|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[JAVA](./algorithms/java/Maximum_Subarray_53.java)| Easy | DP |
+| |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[JAVA](./algorithms/java/Minimum_Path_Sum_64.java)| Medium | DP |
+| |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[JAVA](./algorithms/java/Climbing_Stairs_70.java)| Easy | DP |
+|&hearts; &diams;|72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|[JAVA](./algorithms/java/Edit_Distance_72.java)| Hard | DP |
+|&hearts; &diams;|91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[JAVA](./algorithms/java/Decode_Ways_91.java)| Medium | DP |
+|&hearts; &diams;|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/)|[JAVA](./algorithms/java/Interleaving_String_97.java)| Hard | DP |
+|&hearts;|120|[Triangle](https://leetcode.com/problems/triangle/)|[JAVA](./algorithms/java/Triangle_120.java)| Medium | DP |
+| |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[JAVA](./algorithms/java/Best_Time_to_Buy_and_Sell_Stock_121.java)| Easy |  |
+| &hearts; &diams; |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[JAVA](./algorithms/java/Best_Time_to_Buy_and_Sell_Stock_II_122.java)| Easy |  |
+| &hearts; &diams; |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)|[JAVA](./algorithms/java/Best_Time_to_Buy_and_Sell_Stock_III_123.java)| Hard | DP |
+|&hearts;|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[JAVA](./algorithms/java/Palindrome_Partitioning_II_132.java)| Hard | DP |
 |&hearts; &diams;|179|[Largest Number](https://leetcode.com/problems/largest-number/) | [JAVA](./algorithms/java/Largest_Number_179.java)|Medium|  |
 |  |198|[House Robber](https://leetcode.com/problems/house-robber/description/)|[JAVA](./algorithms/java/House_Robber_198.java)| Easy | DP |
 |&hearts;|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [JAVA](./algorithms/java/House_Robber_II_213.java)|Medium| DP |
