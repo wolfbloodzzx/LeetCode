@@ -6,7 +6,7 @@ leetcode题目的解
 
 | Hot | # | Title | Solution | Difficulty | Note |
 | --- |---| ----- | -------- | ---------- | ---- |
-|&hearts;|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[JAVA](./java/Two_Sum_1.java)|Easy|  |
+|&hearts;|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[JAVA](./java/Two_Sum_1.java) \| [C++](./c++/0001.cpp)|Easy|  |
 |&hearts;|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[JAVA](./java/Three_Sum_15.java)| Medium|  |
 |&hearts;|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[JAVA](./java/Rotate_Image_48.java)| Medium|  |
 |&hearts; &diams;|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[JAVA](./java/Maximum_Subarray_53.java)| Easy | DP |
@@ -35,3 +35,4 @@ leetcode题目的解
 |  |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [JAVA](./java/Array_Partition_I_561.java)|Easy|  |
 |  |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [JAVA](./java/Reverse_Words_in_a_String_III_557.java)|Easy|  |
 |  |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [JAVA](./java/Jewels_and_Stones_771.java)|Easy|  |
+|  |820|[J单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | [C++](./c++/0820.cpp)|Medium| 字典树 |
