@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class Edit_Distance_72 {
     public int minDistance(String word1, String word2) {

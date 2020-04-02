@@ -7,8 +7,9 @@ leetcode题目的解
 | Hot | # | Title | Solution | Difficulty | Note |
 | --- |---| ----- | -------- | ---------- | ---- |
 |&hearts;|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[JAVA](./java/Two_Sum_1.java) \| [C++](./c++/0001.cpp)|Easy|  |
+||8|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|[C++](./c++/0008.cpp)| Medium|  |
 |&hearts;|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[JAVA](./java/Three_Sum_15.java)| Medium|  |
-|&hearts;|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[JAVA](./java/Rotate_Image_48.java)| Medium|  |
+|&hearts;|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[JAVA](./java/Rotate_Image_48.java) \| [C++](./c++/0048.cpp)| Medium|  |
 |&hearts; &diams;|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[JAVA](./java/Maximum_Subarray_53.java)| Easy | DP |
 | |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[JAVA](./java/Minimum_Path_Sum_64.java)| Medium | DP |
 | |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[JAVA](./java/Climbing_Stairs_70.java)| Easy | DP |
@@ -24,7 +25,7 @@ leetcode题目的解
 |  |198|[House Robber](https://leetcode.com/problems/house-robber/description/)|[JAVA](./java/House_Robber_198.java)| Easy | DP |
 |&hearts;|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [JAVA](./java/House_Robber_II_213.java)|Medium| DP |
 |&hearts;|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [JAVA](./java/Invert_Binary_Tree_226.java)|Easy|  |
-|  |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JAVA](./java/Power_of_Two_231.java)|Easy|  |
+|  |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JAVA](./java/Power_of_Two_231.java) \| [C++](./cpp/0231.cpp)|Easy|  |
 |&hearts; &diams;|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) | [JAVA](./java/Increasing_Triplet_Subsequence_334.java)|Medium| DP |
 |  |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [JAVA](./java/Guess_Number_Higher_or_Lower_374.java)|Easy|  |
 |&hearts; &diams;|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) | [JAVA](./java/Arithmetic_Slices_413.java)|Medium| DP |

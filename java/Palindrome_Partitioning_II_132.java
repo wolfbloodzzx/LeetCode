@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class Palindrome_Partitioning_II_132 {
     /**
