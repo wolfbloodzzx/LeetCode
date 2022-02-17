@@ -1,5 +1,6 @@
 #include <iostream>
 #include <sstream>
+#include <gtest/gtest.h>
 using namespace std;
 
 template <class A>
