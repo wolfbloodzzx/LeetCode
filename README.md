@@ -6,8 +6,8 @@ leetcode题目的解
 
 | Hot | # | Title | Solution | Difficulty | Note |
 | --- |---| ----- | -------- | ---------- | ---- |
-|&hearts;|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[JAVA](./java/Two_Sum_1.java) \| [C++](./c++/0001.cpp)|Easy|  |
-|&diams;|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./c++/7.reverse-integer.cpp)|Medium|  |
+|&hearts;|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[JAVA](./java/Two_Sum_1.java) \| [C++](./c++/1.two-sum.cpp)|Easy|  |
+||6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[C++](./c++/6.zigzag-conversion.cpp)|Medium|  |
 ||8|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|[C++](./c++/8.string-to-integer-atoi.cpp)| Medium|  |
 |&hearts;|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[JAVA](./java/Three_Sum_15.java)| Medium|  |
 |&hearts;|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[JAVA](./java/Rotate_Image_48.java) \| [C++](./c++/0048.cpp)| Medium|  |
